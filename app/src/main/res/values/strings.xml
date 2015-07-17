@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SoccerTableManager</string>
+    <string name="hint_username">User name</string>
+    <string name="button_register">Register</string>
+    <string name="hint_table_time">Table time</string>
+    <string name="button_create_table">Create Table</string>
+    <string name="button_refresh_tables">Refresh tables</string>
+
+    <string name="error_invalid_username">Invalid user name!</string>
+    <string name="error_username_taken">This user name is taken!</string>
+    <string name="error_table_time_taken">This time is already taken!</string>
+    <string name="error_invalid_table_time">Invalid table time!</string>
+    <string name="error_get_tables">Error with getting tables!</string>
+    <string name="error_join_table">Error with joining table!</string>
+    <string name="error_leave_table">Error with leaving table!</string>
+
+    <string name="success_username_registered">Registration complete!</string>
+    <string name="success_create_table">Table has been created!</string>
+    <string name="success_get_tables">Tables has been extracted!</string>
+    <string name="success_join_table">Joining table successful!</string>
+    <string name="success_leave_table">Leaving table successful!</string>
+
+</resources>
